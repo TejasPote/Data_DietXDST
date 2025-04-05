@@ -1,4 +1,5 @@
-
+##  ENEL 645 Final Project
+This repository contains the code for the project Dynamic Sparse Training on a Data Diet done as a submission towards the course ENEL 645.
 
 
 ##  Directory Structure
